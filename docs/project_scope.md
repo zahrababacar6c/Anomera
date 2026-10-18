@@ -1,5 +1,5 @@
 
-# Anomera — Project Scope
+# Anomera - Project Scope
 
 ## Problem Statement
 
@@ -20,4 +20,4 @@ ULB Credit Card Fraud Detection dataset.
 
 ## Current Phase
 
-Phase 1 — Data Foundation.
+Phase 1 - Data Foundation.
